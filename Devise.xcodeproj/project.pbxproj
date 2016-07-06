@@ -90,7 +90,6 @@
 		3AD4C7141A24FA2A00F0AE67 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3AD4C6AD1A24F38000F0AE67 /* Foundation.framework */; };
 		3AD4C7161A24FA2F00F0AE67 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3AD4C7151A24FA2F00F0AE67 /* UIKit.framework */; };
 		3AD4C7261A24FC5800F0AE67 /* Devise-Demo-Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3AD4C7251A24FC5800F0AE67 /* Devise-Demo-Assets.xcassets */; };
-		5BC79E65A93B3ECB2948ED9B /* libPods-Tests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 734CDB309091D9968496393A /* libPods-Tests.a */; };
 		5E3A98A11AA877FF00CE2F20 /* NSError+Devise+Private.h in Headers */ = {isa = PBXBuildFile; fileRef = 5E3A989F1AA877FF00CE2F20 /* NSError+Devise+Private.h */; };
 		5E3A98A21AA877FF00CE2F20 /* NSError+Devise+Private.m in Sources */ = {isa = PBXBuildFile; fileRef = 5E3A98A01AA877FF00CE2F20 /* NSError+Devise+Private.m */; };
 		5E7A9A341A3F114F0077DC43 /* NSObject+Devise+Private.h in Headers */ = {isa = PBXBuildFile; fileRef = 5E7A9A321A3F114F0077DC43 /* NSObject+Devise+Private.h */; };
@@ -127,7 +126,7 @@
 		5EE295091A35C086009441E1 /* NSDictionary+Devise+Private.m in Sources */ = {isa = PBXBuildFile; fileRef = 5EE295071A35C086009441E1 /* NSDictionary+Devise+Private.m */; };
 		5EF381D41A2756BB006875D4 /* NSURL+Devise+Private.h in Headers */ = {isa = PBXBuildFile; fileRef = 5EF381D21A2756BB006875D4 /* NSURL+Devise+Private.h */; };
 		5EF381D51A2756BB006875D4 /* NSURL+Devise+Private.m in Sources */ = {isa = PBXBuildFile; fileRef = 5EF381D31A2756BB006875D4 /* NSURL+Devise+Private.m */; };
-		9E97A5606CB024128C71793A /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 091C5A854A6B0D1BE46E5AE1 /* libPods.a */; };
+		A33279581244156CB77A059E /* libPods-Devise.a in Frameworks */ = {isa = PBXBuildFile; fileRef = C86F58D188CE09C344CB4EE4 /* libPods-Devise.a */; };
 		BF1970271AB85C4B00EA3456 /* DVSUserPersistenceSpec.m in Sources */ = {isa = PBXBuildFile; fileRef = BF1970261AB85C4B00EA3456 /* DVSUserPersistenceSpec.m */; };
 		BF527C231AB3204100A43D35 /* DVSGooglePlusAuthenticatorSpec.m in Sources */ = {isa = PBXBuildFile; fileRef = BF527C221AB3204100A43D35 /* DVSGooglePlusAuthenticatorSpec.m */; };
 		BF527C261AB3211800A43D35 /* DVSTestGooglePlusAuthenticator.m in Sources */ = {isa = PBXBuildFile; fileRef = BF527C251AB3211800A43D35 /* DVSTestGooglePlusAuthenticator.m */; };
@@ -139,7 +138,6 @@
 		BF8E921F1AB6BD8D005160FB /* DVSFacebookAuthenticatorSpec.m in Sources */ = {isa = PBXBuildFile; fileRef = BF8E921E1AB6BD8D005160FB /* DVSFacebookAuthenticatorSpec.m */; };
 		BF8E92221AB6C491005160FB /* DVSTestFacebookAuthenticator.m in Sources */ = {isa = PBXBuildFile; fileRef = BF8E92211AB6C491005160FB /* DVSTestFacebookAuthenticator.m */; };
 		BFC6A8D21AB7B523003BA9AF /* DVSFacebookAccountStoreSpec.m in Sources */ = {isa = PBXBuildFile; fileRef = BFC6A8D11AB7B523003BA9AF /* DVSFacebookAccountStoreSpec.m */; };
-		E3631EF7F9C159653DAD7470 /* libPods-Tests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 734CDB309091D9968496393A /* libPods-Tests.a */; };
 		E3A0D6341AA73EE500E326BC /* DVSOAuthJSONParameters.h in Headers */ = {isa = PBXBuildFile; fileRef = E3A0D6321AA73EE500E326BC /* DVSOAuthJSONParameters.h */; };
 		E3A0D6351AA73EE500E326BC /* DVSOAuthJSONParameters.m in Sources */ = {isa = PBXBuildFile; fileRef = E3A0D6331AA73EE500E326BC /* DVSOAuthJSONParameters.m */; };
 		E3BD327D1AA5C86A00E6F7AD /* Social.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E3BD327C1AA5C86A00E6F7AD /* Social.framework */; };
@@ -150,7 +148,6 @@
 		E3CA30071AADC10E00890305 /* DVSFacebookAuthenticator.m in Sources */ = {isa = PBXBuildFile; fileRef = E3CA30051AADC10E00890305 /* DVSFacebookAuthenticator.m */; };
 		E3CA300A1AADF5BE00890305 /* DVSFacebookAccountStore.h in Headers */ = {isa = PBXBuildFile; fileRef = E3CA30081AADF5BE00890305 /* DVSFacebookAccountStore.h */; };
 		E3CA300B1AADF5BE00890305 /* DVSFacebookAccountStore.m in Sources */ = {isa = PBXBuildFile; fileRef = E3CA30091AADF5BE00890305 /* DVSFacebookAccountStore.m */; };
-		F94B3B7915F24D73DF3A530C /* libPods-Demo.a in Frameworks */ = {isa = PBXBuildFile; fileRef = BB28F46FBA4BD2E641B4FE99 /* libPods-Demo.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -192,7 +189,6 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		091C5A854A6B0D1BE46E5AE1 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		2136A5641A5E7D3600D2FDD2 /* OHHTTPStubs+DeviseDemoTests.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "OHHTTPStubs+DeviseDemoTests.h"; path = "Devise Demo Tests/OHHTTPStubs+DeviseDemoTests.h"; sourceTree = "<group>"; };
 		2136A5651A5E7D3600D2FDD2 /* OHHTTPStubs+DeviseDemoTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "OHHTTPStubs+DeviseDemoTests.m"; path = "Devise Demo Tests/OHHTTPStubs+DeviseDemoTests.m"; sourceTree = "<group>"; };
 		2136A56B1A5EA58900D2FDD2 /* DVSPasswordRemindViewSpec.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DVSPasswordRemindViewSpec.m; path = "Devise Demo Tests/DVSPasswordRemindViewSpec.m"; sourceTree = "<group>"; };
@@ -312,8 +308,6 @@
 		3AD4C6AA1A24F1D200F0AE67 /* Devise-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Devise-Prefix.pch"; sourceTree = "<group>"; };
 		3AD4C6AC1A24F22300F0AE67 /* Devise-Tests-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Devise-Tests-Prefix.pch"; sourceTree = "<group>"; };
 		3AD4C6AD1A24F38000F0AE67 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
-		3AD4C6AF1A24F3E000F0AE67 /* Pods.debug.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; name = Pods.debug.xcconfig; path = "Pods/Target Support Files/Pods/Pods.debug.xcconfig"; sourceTree = "<group>"; };
-		3AD4C6B01A24F3E800F0AE67 /* Pods-Tests.debug.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; name = "Pods-Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Tests/Pods-Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		3AD4C6EB1A24F9A700F0AE67 /* Devise Demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Devise Demo.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3AD4C7151A24FA2F00F0AE67 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		3AD4C7171A24FA6A00F0AE67 /* Devise-Demo.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "Devise-Demo.xcconfig"; sourceTree = "<group>"; };
@@ -347,8 +341,6 @@
 		5EE295071A35C086009441E1 /* NSDictionary+Devise+Private.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSDictionary+Devise+Private.m"; sourceTree = "<group>"; };
 		5EF381D21A2756BB006875D4 /* NSURL+Devise+Private.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSURL+Devise+Private.h"; sourceTree = "<group>"; };
 		5EF381D31A2756BB006875D4 /* NSURL+Devise+Private.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSURL+Devise+Private.m"; sourceTree = "<group>"; };
-		734CDB309091D9968496393A /* libPods-Tests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Tests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		BB28F46FBA4BD2E641B4FE99 /* libPods-Demo.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Demo.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BF1970261AB85C4B00EA3456 /* DVSUserPersistenceSpec.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DVSUserPersistenceSpec.m; sourceTree = "<group>"; };
 		BF527C221AB3204100A43D35 /* DVSGooglePlusAuthenticatorSpec.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DVSGooglePlusAuthenticatorSpec.m; sourceTree = "<group>"; };
 		BF527C241AB3211800A43D35 /* DVSTestGooglePlusAuthenticator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DVSTestGooglePlusAuthenticator.h; sourceTree = "<group>"; };
@@ -365,6 +357,7 @@
 		BF8E92201AB6C491005160FB /* DVSTestFacebookAuthenticator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DVSTestFacebookAuthenticator.h; sourceTree = "<group>"; };
 		BF8E92211AB6C491005160FB /* DVSTestFacebookAuthenticator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DVSTestFacebookAuthenticator.m; sourceTree = "<group>"; };
 		BFC6A8D11AB7B523003BA9AF /* DVSFacebookAccountStoreSpec.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DVSFacebookAccountStoreSpec.m; sourceTree = "<group>"; };
+		C86F58D188CE09C344CB4EE4 /* libPods-Devise.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Devise.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E3A0D6321AA73EE500E326BC /* DVSOAuthJSONParameters.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DVSOAuthJSONParameters.h; sourceTree = "<group>"; };
 		E3A0D6331AA73EE500E326BC /* DVSOAuthJSONParameters.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DVSOAuthJSONParameters.m; sourceTree = "<group>"; };
 		E3BD327C1AA5C86A00E6F7AD /* Social.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Social.framework; path = System/Library/Frameworks/Social.framework; sourceTree = SDKROOT; };
@@ -383,7 +376,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				218E29971A5AE90C0010BF3F /* Devise.framework in Frameworks */,
-				5BC79E65A93B3ECB2948ED9B /* libPods-Tests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -405,7 +397,7 @@
 				5EBF305D1ABC2DE2001941CA /* AddressBook.framework in Frameworks */,
 				3AD4C6AE1A24F38000F0AE67 /* Foundation.framework in Frameworks */,
 				E3BD327D1AA5C86A00E6F7AD /* Social.framework in Frameworks */,
-				9E97A5606CB024128C71793A /* libPods.a in Frameworks */,
+				A33279581244156CB77A059E /* libPods-Devise.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -426,7 +418,6 @@
 				5EBF307E1ABC33FE001941CA /* MediaPlayer.framework in Frameworks */,
 				5EBF307D1ABC33F8001941CA /* SystemConfiguration.framework in Frameworks */,
 				3AA8B36A1A24DA0000166927 /* Devise.framework in Frameworks */,
-				E3631EF7F9C159653DAD7470 /* libPods-Tests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -437,7 +428,6 @@
 				3AD4C7161A24FA2F00F0AE67 /* UIKit.framework in Frameworks */,
 				3AD4C7141A24FA2A00F0AE67 /* Foundation.framework in Frameworks */,
 				3AD4C70F1A24FA2100F0AE67 /* Devise.framework in Frameworks */,
-				F94B3B7915F24D73DF3A530C /* libPods-Demo.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -791,7 +781,7 @@
 				3AD4C6861A24DBA700F0AE67 /* Supporting Files */,
 				3AA8B35F1A24DA0000166927 /* Products */,
 				E318EA28A05EB87D9168576A /* Frameworks */,
-				E97D94DD8AA830C4E09E66F5 /* Pods */,
+				3DE9367BFC283EF05CF6F813 /* Pods */,
 			);
 			sourceTree = "<group>";
 		};
@@ -971,11 +961,16 @@
 			name = "Devise Demo";
 			sourceTree = "<group>";
 		};
+		3DE9367BFC283EF05CF6F813 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 		6DAEEC2DE19FB85AF8F5BCE5 /* CocoaPods */ = {
 			isa = PBXGroup;
 			children = (
-				3AD4C6AF1A24F3E000F0AE67 /* Pods.debug.xcconfig */,
-				3AD4C6B01A24F3E800F0AE67 /* Pods-Tests.debug.xcconfig */,
 			);
 			name = CocoaPods;
 			path = ..;
@@ -998,18 +993,9 @@
 				5E64C17B1A30872B00A41A88 /* Security.framework */,
 				3AD4C6AD1A24F38000F0AE67 /* Foundation.framework */,
 				3AD4C7151A24FA2F00F0AE67 /* UIKit.framework */,
-				091C5A854A6B0D1BE46E5AE1 /* libPods.a */,
-				BB28F46FBA4BD2E641B4FE99 /* libPods-Demo.a */,
-				734CDB309091D9968496393A /* libPods-Tests.a */,
+				C86F58D188CE09C344CB4EE4 /* libPods-Devise.a */,
 			);
 			name = Frameworks;
-			sourceTree = "<group>";
-		};
-		E97D94DD8AA830C4E09E66F5 /* Pods */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			name = Pods;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -1062,12 +1048,10 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 218E299B1A5AE90C0010BF3F /* Build configuration list for PBXNativeTarget "Devise Demo Tests" */;
 			buildPhases = (
-				218E298C1A5AE90C0010BF3F /* Check Pods Manifest.lock */,
 				218E298D1A5AE90C0010BF3F /* Touch Precompiled Header */,
 				218E298E1A5AE90C0010BF3F /* Sources */,
 				218E29961A5AE90C0010BF3F /* Frameworks */,
 				218E29991A5AE90C0010BF3F /* Resources */,
-				218E299A1A5AE90C0010BF3F /* Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -1083,14 +1067,14 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 3AA8B3741A24DA0000166927 /* Build configuration list for PBXNativeTarget "Devise" */;
 			buildPhases = (
-				847B4B66C33FBA191EB27B30 /* Check Pods Manifest.lock */,
+				BCC207A1006E409E4E696DA5 /* [CP] Check Pods Manifest.lock */,
 				3AD4C68D1A24DC1500F0AE67 /* Increment Build Number */,
 				3AC598721A28A6320008CC22 /* Touch Precompiled Header */,
 				3AA8B3591A24DA0000166927 /* Sources */,
 				3AA8B35A1A24DA0000166927 /* Frameworks */,
 				3AA8B35B1A24DA0000166927 /* Headers */,
 				3AA8B35C1A24DA0000166927 /* Resources */,
-				DAEF756E065EBB369A275B44 /* Copy Pods Resources */,
+				C90A64D7C253B0590D9E391B /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -1105,12 +1089,10 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 3AA8B3771A24DA0000166927 /* Build configuration list for PBXNativeTarget "Devise Tests" */;
 			buildPhases = (
-				765107F6C40D4918A6DF2AD9 /* Check Pods Manifest.lock */,
 				3ACA0FCA1A28A73B00C98B59 /* Touch Precompiled Header */,
 				3AA8B3651A24DA0000166927 /* Sources */,
 				3AA8B3661A24DA0000166927 /* Frameworks */,
 				3AA8B3671A24DA0000166927 /* Resources */,
-				E7CA1D2855837A8C5895AC0C /* Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -1126,13 +1108,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 3AD4C70D1A24F9A700F0AE67 /* Build configuration list for PBXNativeTarget "Devise Demo" */;
 			buildPhases = (
-				D7A7A242C2D13B7733893E21 /* Check Pods Manifest.lock */,
 				3ACA0FCB1A28A75600C98B59 /* Touch Precompiled Header */,
 				3AD4C6E71A24F9A700F0AE67 /* Sources */,
 				3AD4C6E81A24F9A700F0AE67 /* Frameworks */,
 				3AD4C6E91A24F9A700F0AE67 /* Resources */,
 				3AD4C7131A24FA2200F0AE67 /* Embed Frameworks */,
-				61DA09381C4E8807D970C495 /* Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -1228,21 +1208,6 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		218E298C1A5AE90C0010BF3F /* Check Pods Manifest.lock */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "Check Pods Manifest.lock";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
-			showEnvVarsInLog = 0;
-		};
 		218E298D1A5AE90C0010BF3F /* Touch Precompiled Header */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
@@ -1256,21 +1221,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "#!/bin/bash\ntouch \"$GCC_PREFIX_HEADER\"";
-		};
-		218E299A1A5AE90C0010BF3F /* Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "Copy Pods Resources";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Tests/Pods-Tests-resources.sh\"\n";
-			showEnvVarsInLog = 0;
 		};
 		3AC598721A28A6320008CC22 /* Touch Precompiled Header */ = {
 			isa = PBXShellScriptBuildPhase;
@@ -1328,29 +1278,14 @@
 			shellPath = /bin/sh;
 			shellScript = "#!/bin/bash\nbundleShortVersionString=$(/usr/libexec/PlistBuddy -c \"Print CFBundleShortVersionString\" \"$INFOPLIST_FILE\")\n[[ $bundleShortVersionString =~ ([0-9]*)(.([0-9]*))?(.([0-9]*))? ]]\nbundleVersion=$(( $bundleVersion + ${BASH_REMATCH[1]} * 10000 ))\nbundleVersion=$(( $bundleVersion + $(( ${BASH_REMATCH[3]} * 100 )) ))\nbundleVersion=$(( $bundleVersion + $(( ${BASH_REMATCH[5]} )) ))\nbundleVersionString=$(printf \"%d\" $bundleVersion)\n/usr/libexec/PlistBuddy -c \"Set :CFBundleVersion $bundleVersionString\" \"$INFOPLIST_FILE\"";
 		};
-		61DA09381C4E8807D970C495 /* Copy Pods Resources */ = {
+		BCC207A1006E409E4E696DA5 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputPaths = (
 			);
-			name = "Copy Pods Resources";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Demo/Pods-Demo-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		765107F6C40D4918A6DF2AD9 /* Check Pods Manifest.lock */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "Check Pods Manifest.lock";
+			name = "[CP] Check Pods Manifest.lock";
 			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -1358,64 +1293,19 @@
 			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
 			showEnvVarsInLog = 0;
 		};
-		847B4B66C33FBA191EB27B30 /* Check Pods Manifest.lock */ = {
+		C90A64D7C253B0590D9E391B /* [CP] Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputPaths = (
 			);
-			name = "Check Pods Manifest.lock";
+			name = "[CP] Copy Pods Resources";
 			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
-			showEnvVarsInLog = 0;
-		};
-		D7A7A242C2D13B7733893E21 /* Check Pods Manifest.lock */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "Check Pods Manifest.lock";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
-			showEnvVarsInLog = 0;
-		};
-		DAEF756E065EBB369A275B44 /* Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "Copy Pods Resources";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods/Pods-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		E7CA1D2855837A8C5895AC0C /* Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "Copy Pods Resources";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Tests/Pods-Tests-resources.sh\"\n";
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Devise/Pods-Devise-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */

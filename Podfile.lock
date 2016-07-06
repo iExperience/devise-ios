@@ -1,39 +1,18 @@
 PODS:
-  - KIF (3.4.2):
-    - KIF/Core (= 3.4.2)
-  - KIF-Kiwi (0.2.5):
-    - KIF (~> 3.0)
-    - Kiwi (~> 2.0)
-  - KIF/Core (3.4.2)
-  - Kiwi (2.4.0)
   - ngrvalidator (1.2.1)
-  - OCHamcrest (4.3.0)
-  - OCMockito (1.4.0):
-    - OCHamcrest (~> 4.0)
-  - OHHTTPStubs (3.1.12):
-    - OHHTTPStubs/Core (= 3.1.12)
-  - OHHTTPStubs/Core (3.1.12)
   - UICKeyChainStore (1.1.1)
   - XLForm (3.2.0)
 
 DEPENDENCIES:
-  - KIF-Kiwi (~> 0.2.4)
-  - Kiwi (~> 2.3)
   - ngrvalidator (~> 1.2.0)
-  - OCMockito (~> 1.4.0)
-  - OHHTTPStubs (~> 3.1)
   - UICKeyChainStore (~> 1.1)
   - XLForm (~> 3.0)
 
 SPEC CHECKSUMS:
-  KIF: b518c9831453abea5afdbbde3908ec47832d6d56
-  KIF-Kiwi: f0fd0488602bdc92fcb1908906ce9e2fa18f440e
-  Kiwi: f49c9d54b28917df5928fe44968a39ed198cb8a8
   ngrvalidator: ce34f275e1a9cddc78415f8b61abdb85134082bb
-  OCHamcrest: cd63d27f48a266d4412c0b295b01b8f0940efa81
-  OCMockito: 4981140c9a9ec06c31af40f636e3c0f25f27e6b2
-  OHHTTPStubs: 8cf0cfe6f34f13fc88fdf5b2a1b2c2536e8c0261
   UICKeyChainStore: 891bcd2fe687c92db8e648cba035c4e662ffa43e
   XLForm: 2250b4e96ab8ffa5f3355838c79edd90de451782
 
-COCOAPODS: 0.36.0
+PODFILE CHECKSUM: e6601164273e3d72aa68edb05ed6b26af8e02b92
+
+COCOAPODS: 1.0.1
