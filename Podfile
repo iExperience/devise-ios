@@ -13,7 +13,7 @@ inhibit_all_warnings!
 
 # Framework dependencies
 pod 'UICKeyChainStore', '~> 1.1'
-pod 'XLForm', '~> 2.1'
+pod 'XLForm', '~> 3.0'
 pod 'ngrvalidator', '~> 1.2.0'
 
 # Exclusive demo dependencies
